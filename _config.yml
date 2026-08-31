@@ -1,0 +1,15 @@
+title: Smart Homes OBX
+description: Smart home solutions for the Outer Banks.
+baseurl: "/smarthomesobx"
+url: "https://bac.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+header_pages:
+  - index.md
+
+markdown: kramdown
