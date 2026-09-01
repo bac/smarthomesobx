@@ -28,16 +28,16 @@ damaging water as soon as it is detected.
 
 ## Consider these statistics
 
-According to the Insurance Information Institute [1], one in 60
+According to the [Insurance Information Institute][1], one in 60
 insured homes had a claim due to water damage or freezing. While
 not breaking water damage out between storm-related and internal
-leaks, The Hartford reports [2] that water and freezing damage
+leaks, [The Hartford][2] reports that water and freezing damage
 amounted to 20% of the insurance claims in 2025 with an average
 cost of $35,000.
 
 ## Water waste through leaks
 
-The EPA reports [3] that homes with undetected water leaks average
+The [EPA][3] reports that homes with undetected water leaks average
 9,300 gallons of wasted water per year and 9% of all homes have
 leaks that waste 50 gallons or more per day. These leaks may not do
 damage if they flow into the home's wastewater system, but they
@@ -81,7 +81,7 @@ bathtubs, and water heaters.
 The detectors have sensors on the top and bottom of the unit so
 they can detect water from above or pooling on the floor. When
 triggered, a loud alarm sounds and a signal is sent to the hub and
-the shutoff valve over a long-range protocol called LoRa [4]. No
+the shutoff valve over a long-range protocol called [LoRa][4]. No
 Wi-Fi or internet connection is required for the automated system
 to work.
 
@@ -119,14 +119,11 @@ Contact [Brad at Smart Homes OBX](mailto:info@SmartHomesOBX.com) if
 you have questions or would like help designing a system for your
 home.
 
-## References
 
-1. Insurance Information Institute, [Facts + Statistics:
-   Homeowners and renters insurance](https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance). Accessed 2026-08-24.
-2. [Water And Freezing Damage, Burglary Lead The Hartford's Top
-   Five Small Business Claims](https://www.businesswire.com/news/home/20251209433403/en/Water-And-Freezing-Damage-Burglary-Lead-The-Hartfords-Top-Five-Small-Business-Claims). Accessed 2026-08-25.
-3. EPA, [Fix a Leak Week](https://www.epa.gov/watersense/fix-leak-week). Accessed 2026-08-24.
-4. [LoRa](https://en.wikipedia.org/wiki/LoRa) — Wikipedia.
+[1]: https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance
+[2]: https://www.businesswire.com/news/home/20251209433403/en/Water-And-Freezing-Damage-Burglary-Lead-The-Hartfords-Top-Five-Small-Business-Claims
+[3]: https://www.epa.gov/watersense/fix-leak-week
+[4]: https://en.wikipedia.org/wiki/LoRa
 
 ### Further reading
 
