@@ -1,7 +1,27 @@
 ---
 ---
 
+// Coastal Outer Banks palette, overriding minima's defaults.
+$brand-color: #146b79; // ocean teal
+$text-color: #22303a; // deep slate navy
+$background-color: #faf6ef; // warm sand
+$grey-color: #6e6a5e; // driftwood grey
+
 @import "minima";
+
+.site-title,
+.site-title:visited {
+  color: $brand-color;
+}
+
+.site-nav .page-link {
+  color: $brand-color;
+}
+
+h1,
+h2 {
+  color: $brand-color;
+}
 
 .hero-lede {
   font-size: 1.15em;
