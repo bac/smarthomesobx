@@ -18,8 +18,8 @@ Our cottages face another persistent risk of water damage — the
 threat of leaks, large and small, from plumbing and appliances. A
 broken ice maker, ruptured washing machine hose, cracked toilet
 bowl, or a failed pipe can bring devastating damage to the interior
-of a home if not addressed very quickly. While any home can have
-these issues it is especially damaging when the home is not
+of a home if not addressed quickly. While any home can have
+these issues, it is especially damaging when the home is not
 occupied throughout the year with no one checking on it daily.
 
 Luckily, new technology exists to not only alert residents and
@@ -30,19 +30,19 @@ damaging water as soon as it is detected.
 
 According to the [Insurance Information Institute][1], one in 60
 insured homes had a claim due to water damage or freezing. While
-not breaking water damage out between storm-related and internal
-leaks, [The Hartford][2] reports that water and freezing damage
+not distinguishing between storm-related and internal leaks,
+[The Hartford][2] reports that water and freezing damage
 amounted to 20% of the insurance claims in 2025 with an average
 cost of $35,000.
 
 ## Water waste through leaks
 
 The [EPA][3] reports that homes with undetected water leaks average
-9,300 gallons of wasted water per year and 9% of all homes have
-leaks that waste 50 gallons or more per day. These leaks may not do
-damage if they flow into the home's wastewater system, but they
-cost the homeowner money in increased water bills, waste our
-community's precious fresh water resources, and put extra demand on
+9,300 gallons of wasted water per year, and that 9% of all homes
+have leaks that waste 50 gallons or more per day. These leaks may
+not do damage if they flow into the home's wastewater system, but
+they cost the homeowner money in increased water bills, waste our
+community's precious freshwater resources, and put extra demand on
 municipal sewer systems, or worse, septic tanks.
 
 ## Technical solutions
@@ -60,11 +60,11 @@ action, often with no human intervention required.
 
 The entire system consists of four different parts: a hub, leak
 detectors, a water flow monitor (optional), and an automated
-shutoff valve.
+shut-off valve.
 
 The diagram below shows a typical configuration with four leak
-detectors, a hub, and a smart shutoff valve. Each of the components
-is described below.
+detectors, a hub, and a smart shut-off valve. Each of the
+components is described below.
 
 ![Whole-house water leak detection system diagram][diagram]
 
@@ -81,7 +81,7 @@ bathtubs, and water heaters.
 The detectors have sensors on the top and bottom of the unit so
 they can detect water from above or pooling on the floor. When
 triggered, a loud alarm sounds and a signal is sent to the hub and
-the shutoff valve over a long-range protocol called [LoRa][4]. No
+the shut-off valve over a long-range protocol called [LoRa][4]. No
 Wi-Fi or internet connection is required for the automated system
 to work.
 
@@ -89,7 +89,7 @@ A five-bedroom home with five bathrooms would need about a dozen
 detectors throughout the home. Each detector costs about $16, for a
 total of less than $200.
 
-### Whole house automated shut-off valves
+### Whole-house automated shut-off valves
 
 The second component is a smart shut-off valve that turns off all
 water coming into the house when a leak is detected. The valve
@@ -101,7 +101,7 @@ and it can also be controlled via a smartphone app.
 Most water leaks happen at the fixtures and appliances where a leak
 detector is placed, but other leaks can occur in the piping inside
 a wall, or as flow that never reaches the floor, such as a stuck
-toilet flap. A water flow monitor can detect these unusual flow
+toilet flapper. A water flow monitor can detect these unusual flow
 patterns and either close the valve or alert the homeowner via a
 notification. The monitor can be built into the shut-off valve or
 installed as a separate unit. It clamps onto the incoming water
