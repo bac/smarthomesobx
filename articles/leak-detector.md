@@ -115,8 +115,10 @@ All of the components described above can be installed by a
 homeowner, except for the shut-off valve, which should be installed
 by a qualified plumber.
 
-Contact [Brad at Smart Homes OBX](mailto:info@SmartHomesOBX.com) if
-you have questions or would like help designing a system for your
+Contact [Brad at Smart Homes
+OBX](mailto:info@SmartHomesOBX.com?subject=Leak%20Detection%20followup)
+if you have questions or would like help designing a system for
+your
 home.
 
 
