@@ -116,6 +116,11 @@ permalink: /
     name="_subject"
     value="New inquiry from Smart Homes OBX website"
   >
+  <input
+    type="hidden"
+    name="_next"
+    value="{{ "/thank-you/" | absolute_url }}"
+  >
   <button type="submit">Send</button>
 </form>
 
