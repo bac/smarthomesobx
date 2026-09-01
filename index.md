@@ -98,6 +98,7 @@ permalink: /
 </p>
 
 <form
+  id="contact-form"
   action="https://formspree.io/f/xppzpvnq"
   method="POST"
   class="contact-form"
@@ -116,12 +117,51 @@ permalink: /
     name="_subject"
     value="New inquiry from Smart Homes OBX website"
   >
-  <input
-    type="hidden"
-    name="_next"
-    value="{{ "/thank-you/" | absolute_url }}"
-  >
   <button type="submit">Send</button>
 </form>
+
+<p id="form-status" class="form-status" hidden></p>
+
+<script>
+  (function () {
+    var form = document.getElementById("contact-form");
+    var status = document.getElementById("form-status");
+
+    function showStatus(message) {
+      form.hidden = true;
+      status.textContent = message;
+      status.hidden = false;
+    }
+
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+
+      fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { Accept: "application/json" },
+      })
+        .then(function (response) {
+          if (response.ok) {
+            showStatus(
+              "Thanks for reaching out. We'll get back to " +
+                "you shortly."
+            );
+          } else {
+            showStatus(
+              "Something went wrong. Please try again, or " +
+                "email info@SmartHomesOBX.com directly."
+            );
+          }
+        })
+        .catch(function () {
+          showStatus(
+            "Something went wrong. Please try again, or " +
+              "email info@SmartHomesOBX.com directly."
+          );
+        });
+    });
+  })();
+</script>
 
 </div>
