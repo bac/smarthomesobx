@@ -88,6 +88,13 @@ permalink: /
 
 </div>
 
+## Articles
+
+Technical guides on protecting Outer Banks homes and rental
+cottages: [browse our articles][articles-page].
+
+[articles-page]: {{ "/articles/" | relative_url }}
+
 <div class="contact-section" markdown="1">
 
 ## Get in Touch
