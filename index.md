@@ -24,10 +24,10 @@ permalink: /
     </svg>
     <h3>Leak &amp; Water Detection</h3>
     <p>
-      Wi-Fi-connected sensors at water heaters, supply lines, and
-      appliances detect leaks in real time and push instant alerts,
-      limiting damage and insurance claims between rental
-      turnovers.
+      Connected sensors at water heaters, supply lines, and
+      appliances detect leaks in real time and push instant alerts to the
+      homeowner and automatically shut off the whole house valve,
+      limiting damage.
     </p>
   </div>
 
@@ -64,9 +64,9 @@ permalink: /
            -.8.4-1.5 1-2a6 6 0 0 0-3-11z"
       />
     </svg>
-    <h3>Smart Lighting (Lutron)</h3>
+    <h3>Smart Lighting</h3>
     <p>
-      Lutron lighting systems with scheduling and remote control
+      Lighting systems with scheduling and remote control
       improve curb appeal, deter break-ins during vacancies, and
       simplify the guest experience.
     </p>
@@ -88,7 +88,7 @@ permalink: /
 
 </div>
 
-<div class="contact-section">
+<div class="contact-section" markdown="1">
 
 ## Get in Touch
 
