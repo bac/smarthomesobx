@@ -9,4 +9,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+header_pages:
+  - articles.md
+  - contact.md
+
 markdown: kramdown
