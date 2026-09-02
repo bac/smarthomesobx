@@ -42,11 +42,12 @@ permalink: /
       <path d="M12 12 L12 6" />
       <circle cx="12" cy="12" r="1.4" style="fill:currentColor" />
     </svg>
-    <h3>Smart Thermostats</h3>
+    <h3>Interior Climate</h3>
     <p>
-      Remotely scheduled and monitored climate control cuts energy
-      costs during vacancies while guaranteeing a guest-ready
-      temperature before every check-in.
+      Smart thermostats and automated blinds work together to cut
+      energy costs during vacancies, block out summer heat, and
+      guarantee a guest-ready temperature before every check-in —
+      comfort and savings without anyone touching a dial.
     </p>
   </div>
 
@@ -88,6 +89,22 @@ permalink: /
       system, with configuration for mobility- and sight-impaired
       residents and guests — including voice control and app-based
       accessibility features.
+    </p>
+  </div>
+
+  <div class="service-card">
+    <svg viewBox="0 0 24 24">
+      <path d="M9 16a4.2 4.2 0 0 1 6 0" />
+      <path d="M6 12.5a8.5 8.5 0 0 1 12 0" />
+      <path d="M3 9a13 13 0 0 1 18 0" />
+      <circle cx="12" cy="19" r="1.4" style="fill:currentColor" />
+    </svg>
+    <h3>Home Networking</h3>
+    <p>
+      Whole-home network design, structured wiring, and mesh
+      Wi-Fi installation eliminate dead zones and give every
+      smart device, camera, and streaming setup reliable,
+      professional-grade connectivity.
     </p>
   </div>
 
