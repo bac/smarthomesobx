@@ -9,9 +9,10 @@ $grey-color: #6e6a5e; // driftwood grey
 
 @import "minima";
 
-.site-title,
-.site-title:visited {
-  color: $brand-color;
+.site-logo {
+  display: block;
+  height: 46px;
+  width: auto;
 }
 
 .site-nav .page-link {
@@ -21,6 +22,17 @@ $grey-color: #6e6a5e; // driftwood grey
 h1,
 h2 {
   color: $brand-color;
+}
+
+.hero-banner {
+  margin-bottom: 2em;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
 }
 
 .hero-lede {

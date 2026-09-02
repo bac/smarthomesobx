@@ -4,15 +4,20 @@ title: Smart Homes for Outer Banks Residences and Rental Cottages
 permalink: /
 ---
 
-<p class="hero-lede">
-  Smart Homes OBX designs and installs connected home systems for
-  full-time residences and rental cottages across the Outer Banks,
-  NC — leak detection, climate control, security, and lighting
-  engineered for coastal conditions and, where needed, the demands
-  of short-term rental turnover: remote monitoring, guest-proof
-  configuration, and integration with your property management
-  workflow.
-</p>
+<div class="hero-banner">
+  <img
+    src="{{ "/assets/images/banner.png" | relative_url }}"
+    alt="Intelligent living, coastal comfort — design and
+      installation for Outer Banks cottages"
+  >
+</div>
+
+<p class="hero-lede"> Smart Homes OBX designs and installs connected home
+  systems for full-time residences and rental cottages across the Outer Banks of
+  North Carolina — leak detection, climate control, security, and lighting
+  engineered for coastal conditions and, where needed, the demands of short-term
+  rental turnover: remote monitoring, guest-proof configuration, and integration
+  with your property management workflow.  </p>
 
 ## Services
 
